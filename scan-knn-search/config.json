@@ -1,0 +1,8 @@
+{
+  "data_path": "../data/sift_base_sample.csv",
+  "query_path": "../data/sift_query_sample.csv",
+  "save_dir": "../result/scan/",
+  "n": 100,
+  "n_query": 10,
+  "k": 10
+}

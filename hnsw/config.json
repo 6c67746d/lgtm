@@ -1,0 +1,11 @@
+{
+  "data_path": "../data/sift_base_sample.csv",
+  "query_path": "../data/sift_query_sample.csv",
+  "groundtruth_path": "../data/sift_groundtruth_sample.csv",
+  "save_dir": "../result/hnsw/",
+  "n": 100,
+  "n_query": 10,
+  "k": 10,
+  "m": 10,
+  "ef": 10
+}

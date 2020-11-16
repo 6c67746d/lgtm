@@ -1,0 +1,6 @@
+{
+  "data_path": "../data/sift_base_sample.csv",
+  "save_path": "index/aknng/sift_base_sample_d10.csv",
+  "degree": 10,
+  "n": 100
+}

@@ -1,0 +1,16 @@
+{
+  "data_path": "../data/sift_base_sample.csv",
+  "query_path": "../data/sift_query_sample.csv",
+  "groundtruth_path": "../data/sift_groundtruth_sample.csv",
+  "graph_path": "../index/aknng/sift_base_sample_d10.csv",
+  "save_dir": "../result/lgtm/",
+  "n": 100,
+  "n_query": 10,
+  "k": 10,
+  "t": 8,
+  "m": 3,
+  "w": 200,
+  "degree": 10,
+  "ef": 10,
+  "n_start_node": 50
+}
